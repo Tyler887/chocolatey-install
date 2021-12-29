@@ -2,7 +2,7 @@ name: Install Chocolatey
 description: Install Chocolatey and add it to the PATH
 branding:
   icon: 'box'
-  color: 'brown'
+  color: 'yellow'
 on: workflow_dispatch
 
 jobs:
