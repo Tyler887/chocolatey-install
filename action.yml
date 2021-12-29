@@ -1,0 +1,19 @@
+name: Install Chocolatey
+description: Install Chocolatey and add it to the PATH
+on: workflow_dispatch
+
+jobs:
+
+  install:
+
+    runs-on: windows-latest
+
+    steps:
+
+      - name: Install via command line
+
+        run: choco install gh
+
+      - name: Get version
+
+        run: gh version
