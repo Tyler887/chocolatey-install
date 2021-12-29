@@ -1,4 +1,4 @@
-name: Install Chocolatey
+name: Install Chocolatey pkg
 description: Install Chocolatey and add it to the PATH
 branding:
   icon: 'box'
