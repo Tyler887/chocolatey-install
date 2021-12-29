@@ -1,5 +1,5 @@
 name: Install Chocolatey pkg
-description: Install Chocolatey and add it to the PATH
+description: Install a Chocolatey gh package and add it to the PATH
 branding:
   icon: 'box'
   color: 'yellow'
